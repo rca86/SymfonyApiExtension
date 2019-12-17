@@ -1,5 +1,5 @@
 {
-    "name": "persata/symfony-api-extension",
+    "name": "rca86/symfony-api-extension",
     "description": "Provides functionality for testing Symfony APIs with Behat.",
     "type": "library",
     "license": "MIT",
